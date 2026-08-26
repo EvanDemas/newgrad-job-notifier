@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-26T18:59:26.720602+00:00",
+  "updated_utc": "2026-08-26T19:21:47.572934+00:00",
   "jobs": [
     {
       "company": "EquipmentShare",
@@ -38,12 +38,6 @@
       "location": "Remote in USA"
     },
     {
-      "company": "Keenfinity",
-      "role": "Associate DevOps Software Engineer",
-      "url": "https://jobs.smartrecruiters.com/Keenfinity/744000145726019",
-      "location": "Fairport, NY"
-    },
-    {
       "company": "E2 Optics",
       "role": "Data Center Infrastructure Technician",
       "url": "https://careers-e2optics.icims.com/jobs/3788/job?mobile=true&needsRedirect=false",
@@ -59,6 +53,12 @@
       "company": "E2 Optics",
       "role": "Data Center Infrastructure Technician",
       "url": "https://careers-e2optics.icims.com/jobs/3792/job?mobile=true&needsRedirect=false",
+      "location": "San Antonio, TX"
+    },
+    {
+      "company": "E2 Optics",
+      "role": "Data Center Infrastructure Technician",
+      "url": "https://careers-e2optics.icims.com/jobs/3793/job?mobile=true&needsRedirect=false",
       "location": "San Antonio, TX"
     }
   ]
