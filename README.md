@@ -13,9 +13,15 @@ Scriptable iOS home-screen widget to read.
   table.
 - It diffs the current active listings against `snapshot.json` (ids of
   postings already seen) to find new ones.
-- New postings trigger a POST to `https://ntfy.sh/<topic>` with company,
-  role, and application link.
-- The ~10 most recent postings are written to `latest_jobs.json`.
+- New postings trigger a POST to `https://ntfy.sh/<topic>` with the company
+  as the notification title and the role as the body; tapping the
+  notification opens the application link.
+- The top 10 postings are written to `latest_jobs.json` (company + role
+  only), ranked by a priority tier before recency: big tech / well-known SV
+  companies (see `BIG_TECH_COMPANIES` in `check_jobs.py`) and postings
+  located in CA or NYC (see `PRIORITY_LOCATION_TOKENS`) get bumped above
+  everything else. Edit those two lists in `check_jobs.py` to change what
+  counts as "priority".
 - `.github/workflows/check-jobs.yml` runs this on a cron schedule and commits
   the updated `snapshot.json` / `latest_jobs.json` back to the repo.
 - `scriptable/NewGradJobsWidget.js` is an iOS Scriptable widget that reads

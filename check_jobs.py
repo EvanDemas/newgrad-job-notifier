@@ -39,6 +39,61 @@ NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "").strip()
 NTFY_URL_BASE = "https://ntfy.sh"
 DRY_RUN = os.environ.get("DRY_RUN", "").lower() in ("1", "true", "yes")
 
+# Companies whose postings get bumped to the top of latest_jobs.json (the
+# widget's list). Matched as whole words, case-insensitive, against
+# company_name. Edit freely -- this is just a curated "big tech" list.
+BIG_TECH_COMPANIES = [
+    # FAANG / MAMAA
+    "meta", "facebook", "apple", "amazon", "netflix", "google", "alphabet",
+    "microsoft",
+    # other large / notable SV & big tech
+    "nvidia", "openai", "anthropic", "tesla", "spacex", "uber", "airbnb",
+    "stripe", "palantir", "salesforce", "adobe", "linkedin", "snap",
+    "pinterest", "databricks", "bytedance", "tiktok", "oracle", "ibm",
+    "intel", "amd", "qualcomm", "cisco", "vmware", "reddit", "doordash",
+    "instacart", "robinhood", "coinbase", "block", "square", "zoom",
+    "dropbox", "atlassian", "servicenow", "workday", "splunk", "mongodb",
+    "snowflake", "twilio", "asana", "figma", "notion", "discord", "roblox",
+    "epic games", "unity", "waymo", "cruise", "rivian", "lucid",
+    "deepmind", "xai", "x corp", "twitter",
+]
+BIG_TECH_PATTERN = re.compile(
+    r"\b(" + "|".join(re.escape(name) for name in BIG_TECH_COMPANIES) + r")\b",
+    re.IGNORECASE,
+)
+
+# Location tokens (matched exactly, after splitting on commas) that count as
+# "CA or NYC" for widget ranking purposes.
+PRIORITY_LOCATION_TOKENS = {
+    "ca", "california", "sf", "san francisco", "bay area", "silicon valley",
+    "los angeles", "san jose", "mountain view", "menlo park", "palo alto",
+    "sunnyvale", "santa clara", "cupertino", "redwood city",
+    "ny", "new york", "nyc", "manhattan", "brooklyn",
+}
+
+
+def is_big_tech(company):
+    return bool(BIG_TECH_PATTERN.search(company or ""))
+
+
+def is_priority_location(location):
+    if not location:
+        return False
+    for part in re.split(r"[,/]", location):
+        if part.strip().lower() in PRIORITY_LOCATION_TOKENS:
+            return True
+    return False
+
+
+def widget_priority(job):
+    """Higher = shown first in latest_jobs.json. Big tech companies and
+    CA/NYC locations get bumped up; recency is still the tiebreaker within
+    each tier."""
+    tier = (2 if is_big_tech(job["company"]) else 0) + (
+        1 if is_priority_location(job.get("location", "")) else 0
+    )
+    return (tier, job["date_posted"])
+
 REQUEST_TIMEOUT = 30
 USER_AGENT = "newgrad-job-notifier/1.0 (+https://github.com/EvanDemas/newgrad-job-notifier)"
 
@@ -231,15 +286,14 @@ def save_snapshot(seen_ids, current_jobs):
 
 
 def save_latest_jobs(jobs):
-    latest = jobs[:LATEST_JOBS_COUNT]
+    ranked = sorted(jobs, key=widget_priority, reverse=True)
+    latest = ranked[:LATEST_JOBS_COUNT]
     out = []
     for j in latest:
         out.append(
             {
                 "company": j["company"],
                 "role": j["role"],
-                "url": j["url"],
-                "location": j.get("location", ""),
             }
         )
     with open(LATEST_JOBS_PATH, "w") as f:
@@ -264,9 +318,6 @@ def send_ntfy_notification(job):
 
     title = f"New grad job: {job['company']}"
     body = job["role"]
-    if job.get("location"):
-        body += f"  •  {job['location']}"
-    body += f"\n{job['url']}"
 
     url = f"{NTFY_URL_BASE}/{NTFY_TOPIC}"
     req = urllib.request.Request(

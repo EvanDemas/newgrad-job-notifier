@@ -1,65 +1,45 @@
 {
-  "updated_utc": "2026-08-26T19:21:47.572934+00:00",
+  "updated_utc": "2026-08-26T19:25:29.127839+00:00",
   "jobs": [
     {
-      "company": "EquipmentShare",
-      "role": "Telematics Installer",
-      "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8157860",
-      "location": "Port Allen, LA"
+      "company": "TikTok",
+      "role": "Data Engineer Graduate - Data Platform E-commerce"
     },
     {
-      "company": "United Launch Alliance",
-      "role": "Embedded Flight Software Engineer 1",
-      "url": "https://jobs.ulalaunch.com/job/Centennial-Embedded-Flight-Software-Engineer-1-CO-80112/1423541600/?ats=successfactors",
-      "location": "Centennial, CO"
+      "company": "TikTok",
+      "role": "Data Engineer Graduate - Data Platform Global Live"
     },
     {
-      "company": "NewRocket",
-      "role": "AI Engineer Graduate Level",
-      "url": "https://www.newrocket.com/careers/job?gh_jid=6163544004&gh_jid=6163544004",
-      "location": "Remote in USA"
+      "company": "Salesforce",
+      "role": "AI Builder - Emerging Talent"
     },
     {
-      "company": "NewRocket",
-      "role": "AI Engineer - Anthropic",
-      "url": "https://www.newrocket.com/careers/job?gh_jid=6163518004&gh_jid=6163518004",
-      "location": "Remote in USA"
+      "company": "ByteDance",
+      "role": "Machine Learning Engineer Graduate - E-Commerce Risk Control - PhD"
     },
     {
-      "company": "Aflac",
-      "role": "Data Analyst",
-      "url": "https://careers.aflac.com/job/Remote-Data-Analyst-31999/1423406100/?ats=successfactors",
-      "location": "Remote in USA, Georgia"
+      "company": "Tesla",
+      "role": "Electronic Hardware Validation - Low Voltage Systems"
     },
     {
-      "company": "Ocado Group",
-      "role": "Field Service Engineer",
-      "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=4960695101&gh_jid=4960695101",
-      "location": "Remote in USA"
+      "company": "Cisco",
+      "role": "Software Engineer 1"
     },
     {
-      "company": "E2 Optics",
-      "role": "Data Center Infrastructure Technician",
-      "url": "https://careers-e2optics.icims.com/jobs/3788/job?mobile=true&needsRedirect=false",
-      "location": "Cedar Rapids, IA"
+      "company": "TikTok",
+      "role": "Machine Learning Engineer - E-Commerce Knowledge Graph"
     },
     {
-      "company": "E2 Optics",
-      "role": "Data Center Infrastructure Technician",
-      "url": "https://careers-e2optics.icims.com/jobs/3791/job?mobile=true&needsRedirect=false",
-      "location": "San Antonio, TX"
+      "company": "SpaceX",
+      "role": "Software Security Engineer New Grad - Software Security - Starlink"
     },
     {
-      "company": "E2 Optics",
-      "role": "Data Center Infrastructure Technician",
-      "url": "https://careers-e2optics.icims.com/jobs/3792/job?mobile=true&needsRedirect=false",
-      "location": "San Antonio, TX"
+      "company": "Google",
+      "role": "Software Engineer Early Career - Multiple Teams"
     },
     {
-      "company": "E2 Optics",
-      "role": "Data Center Infrastructure Technician",
-      "url": "https://careers-e2optics.icims.com/jobs/3793/job?mobile=true&needsRedirect=false",
-      "location": "San Antonio, TX"
+      "company": "Google",
+      "role": "Software Engineer - AI/Machine Learning - PhD"
     }
   ]
 }
