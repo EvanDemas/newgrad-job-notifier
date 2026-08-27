@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-08-27T14:21:32.639317+00:00",
+  "updated_utc": "2026-08-27T23:51:47.271276+00:00",
   "jobs": [
+    {
+      "company": "Tesla",
+      "role": "Engineering Technician - Abuse Test & Engineering"
+    },
     {
       "company": "Apple",
       "role": "Systems Engineer - UI Compositing"
@@ -36,10 +40,6 @@
     {
       "company": "SpaceX",
       "role": "Software Security Engineer New Grad - Software Security - Starlink"
-    },
-    {
-      "company": "Google",
-      "role": "Software Engineer Early Career - Multiple Teams"
     }
   ]
 }
