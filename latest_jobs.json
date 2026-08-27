@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-08-26T22:07:54.570370+00:00",
+  "updated_utc": "2026-08-27T03:18:40.838399+00:00",
   "jobs": [
+    {
+      "company": "Apple",
+      "role": "Systems Engineer - UI Compositing"
+    },
     {
       "company": "TikTok",
       "role": "Data Engineer Graduate - Data Platform E-commerce"
@@ -8,6 +12,10 @@
     {
       "company": "TikTok",
       "role": "Data Engineer Graduate - Data Platform Global Live"
+    },
+    {
+      "company": "Salesforce",
+      "role": "AI Builder - Emerging Talent"
     },
     {
       "company": "Salesforce",
@@ -32,14 +40,6 @@
     {
       "company": "SpaceX",
       "role": "Software Security Engineer New Grad - Software Security - Starlink"
-    },
-    {
-      "company": "Google",
-      "role": "Software Engineer Early Career - Multiple Teams"
-    },
-    {
-      "company": "Google",
-      "role": "Software Engineer - AI/Machine Learning - PhD"
     }
   ]
 }
