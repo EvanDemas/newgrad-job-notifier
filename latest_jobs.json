@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-08-27T23:51:47.271276+00:00",
+  "updated_utc": "2026-08-28T08:25:40.740664+00:00",
   "jobs": [
+    {
+      "company": "Qualcomm",
+      "role": "NOC Interconnect Design Engineer and Architect - ASICS Engineering"
+    },
     {
       "company": "Tesla",
       "role": "Engineering Technician - Abuse Test & Engineering"
@@ -36,10 +40,6 @@
     {
       "company": "TikTok",
       "role": "Machine Learning Engineer - E-Commerce Knowledge Graph"
-    },
-    {
-      "company": "SpaceX",
-      "role": "Software Security Engineer New Grad - Software Security - Starlink"
     }
   ]
 }
