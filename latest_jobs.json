@@ -1,6 +1,22 @@
 {
-  "updated_utc": "2026-08-28T20:19:26.558037+00:00",
+  "updated_utc": "2026-08-29T02:51:25.020715+00:00",
   "jobs": [
+    {
+      "company": "TikTok",
+      "role": "Machine Learning Engineer Graduate - E-Commerce Knowledge Graph"
+    },
+    {
+      "company": "TikTok",
+      "role": "AI Product Manager Graduate - Product Social"
+    },
+    {
+      "company": "Apple",
+      "role": "Software Engineer - Front-end"
+    },
+    {
+      "company": "NVIDIA",
+      "role": "GPU PCIe and Boot Architect New Grad - New College Grad"
+    },
     {
       "company": "Qualcomm",
       "role": "NOC Interconnect Design Engineer and Architect - ASICS Engineering"
@@ -24,22 +40,6 @@
     {
       "company": "Salesforce",
       "role": "AI Builder - Emerging Talent"
-    },
-    {
-      "company": "Salesforce",
-      "role": "AI Builder - Emerging Talent"
-    },
-    {
-      "company": "ByteDance",
-      "role": "Machine Learning Engineer Graduate - E-Commerce Risk Control - PhD"
-    },
-    {
-      "company": "Tesla",
-      "role": "Electronic Hardware Validation - Low Voltage Systems"
-    },
-    {
-      "company": "TikTok",
-      "role": "Machine Learning Engineer - E-Commerce Knowledge Graph"
     }
   ]
 }
