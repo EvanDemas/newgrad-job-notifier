@@ -1,6 +1,22 @@
 {
-  "updated_utc": "2026-08-31T17:58:22.002536+00:00",
+  "updated_utc": "2026-08-31T22:44:46.465087+00:00",
   "jobs": [
+    {
+      "company": "AMD",
+      "role": "AI Applications Engineer - Wired and Wireless Business Team - Adaptive and Embedded Computing Group"
+    },
+    {
+      "company": "Intel",
+      "role": "CPU Core Physical Design Engineer"
+    },
+    {
+      "company": "NVIDIA",
+      "role": "ASIC Floorplan Design Engineer New Grad"
+    },
+    {
+      "company": "NVIDIA",
+      "role": "AI Developer Technology Engineer New Grad - AI"
+    },
     {
       "company": "TikTok",
       "role": "Machine Learning Engineer Graduate - E-Commerce Knowledge Graph"
@@ -24,22 +40,6 @@
     {
       "company": "Tesla",
       "role": "Engineering Technician - Abuse Test & Engineering"
-    },
-    {
-      "company": "Apple",
-      "role": "Systems Engineer - UI Compositing"
-    },
-    {
-      "company": "TikTok",
-      "role": "Data Engineer Graduate - Data Platform E-commerce"
-    },
-    {
-      "company": "TikTok",
-      "role": "Data Engineer Graduate - Data Platform Global Live"
-    },
-    {
-      "company": "Salesforce",
-      "role": "AI Builder - Emerging Talent"
     }
   ]
 }
