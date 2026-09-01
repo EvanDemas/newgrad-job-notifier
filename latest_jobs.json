@@ -1,6 +1,18 @@
 {
-  "updated_utc": "2026-09-01T06:40:15.757077+00:00",
+  "updated_utc": "2026-09-01T12:02:42.670568+00:00",
   "jobs": [
+    {
+      "company": "Qualcomm",
+      "role": "Sensors Software Engineer \u2013 Engineer or Senior - Software Engineering"
+    },
+    {
+      "company": "Qualcomm",
+      "role": "HSIO Bench Test Engineer - Hardware Engineering"
+    },
+    {
+      "company": "Stripe",
+      "role": "Software Engineer New Grad"
+    },
     {
       "company": "Qualcomm",
       "role": "GPU Research Engineer - GPU ASICS Engineering"
@@ -28,18 +40,6 @@
     {
       "company": "TikTok",
       "role": "Machine Learning Engineer Graduate - E-Commerce Knowledge Graph"
-    },
-    {
-      "company": "TikTok",
-      "role": "AI Product Manager Graduate - Product Social"
-    },
-    {
-      "company": "Apple",
-      "role": "Software Engineer - Front-end"
-    },
-    {
-      "company": "NVIDIA",
-      "role": "GPU PCIe and Boot Architect New Grad - New College Grad"
     }
   ]
 }
