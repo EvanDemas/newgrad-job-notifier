@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-09-01T01:25:52.183386+00:00",
+  "updated_utc": "2026-09-01T06:40:15.757077+00:00",
   "jobs": [
+    {
+      "company": "Qualcomm",
+      "role": "GPU Research Engineer - GPU ASICS Engineering"
+    },
     {
       "company": "AMD",
       "role": "AI Applications Engineer - Wired and Wireless Business Team - Adaptive and Embedded Computing Group"
@@ -36,10 +40,6 @@
     {
       "company": "NVIDIA",
       "role": "GPU PCIe and Boot Architect New Grad - New College Grad"
-    },
-    {
-      "company": "Qualcomm",
-      "role": "NOC Interconnect Design Engineer and Architect - ASICS Engineering"
     }
   ]
 }
