@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-03T00:08:27.930383+00:00",
+  "updated_utc": "2026-09-03T04:33:36.901098+00:00",
   "jobs": [
     {
       "company": "Apple",
@@ -22,6 +22,10 @@
       "role": "GPU Research Engineer - GPU ASICS Engineering"
     },
     {
+      "company": "NVIDIA",
+      "role": "Applied Systems Engineering Rotation Engineer New Grad"
+    },
+    {
       "company": "AMD",
       "role": "AI Applications Engineer - Wired and Wireless Business Team - Adaptive and Embedded Computing Group"
     },
@@ -36,10 +40,6 @@
     {
       "company": "NVIDIA",
       "role": "AI Developer Technology Engineer New Grad - AI"
-    },
-    {
-      "company": "Intel",
-      "role": "GPU Design Verification Engineer"
     }
   ]
 }
