@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-09-03T04:33:36.901098+00:00",
+  "updated_utc": "2026-09-03T09:10:11.930238+00:00",
   "jobs": [
+    {
+      "company": "Roblox",
+      "role": "Associate Product Manager - Early Career"
+    },
     {
       "company": "Apple",
       "role": "Cellular Layer-1 Control Software Development Engineer - Wireless Technologies & Ecosystems"
@@ -36,10 +40,6 @@
     {
       "company": "NVIDIA",
       "role": "ASIC Floorplan Design Engineer New Grad"
-    },
-    {
-      "company": "NVIDIA",
-      "role": "AI Developer Technology Engineer New Grad - AI"
     }
   ]
 }
