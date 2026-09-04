@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-04T00:16:39.766662+00:00",
+  "updated_utc": "2026-09-04T04:44:14.343504+00:00",
   "jobs": [
     {
       "company": "Roblox",
@@ -14,16 +14,8 @@
       "role": "Sensors Software Engineer \u2013 Engineer or Senior - Software Engineering"
     },
     {
-      "company": "Qualcomm",
-      "role": "HSIO Bench Test Engineer - Hardware Engineering"
-    },
-    {
       "company": "Stripe",
       "role": "Software Engineer New Grad"
-    },
-    {
-      "company": "Qualcomm",
-      "role": "GPU Research Engineer - GPU ASICS Engineering"
     },
     {
       "company": "NVIDIA",
@@ -40,6 +32,14 @@
     {
       "company": "NVIDIA",
       "role": "ASIC Floorplan Design Engineer New Grad"
+    },
+    {
+      "company": "NVIDIA",
+      "role": "AI Developer Technology Engineer New Grad - AI"
+    },
+    {
+      "company": "Intel",
+      "role": "GPU Design Verification Engineer"
     }
   ]
 }
