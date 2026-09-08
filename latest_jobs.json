@@ -1,6 +1,14 @@
 {
-  "updated_utc": "2026-09-08T21:25:40.518827+00:00",
+  "updated_utc": "2026-09-08T23:34:19.029882+00:00",
   "jobs": [
+    {
+      "company": "Qualcomm",
+      "role": "Physical Design Engineer - ASICS Engineering"
+    },
+    {
+      "company": "SpaceX",
+      "role": "Software Engineer New Grad - Software - Starship"
+    },
     {
       "company": "TikTok",
       "role": "Data Engineer Graduate"
@@ -32,14 +40,6 @@
     {
       "company": "Intel",
       "role": "CPU Core Physical Design Engineer"
-    },
-    {
-      "company": "NVIDIA",
-      "role": "ASIC Floorplan Design Engineer New Grad"
-    },
-    {
-      "company": "NVIDIA",
-      "role": "AI Developer Technology Engineer New Grad - AI"
     }
   ]
 }
