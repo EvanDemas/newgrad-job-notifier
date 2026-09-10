@@ -1,6 +1,18 @@
 {
-  "updated_utc": "2026-09-10T21:08:49.919601+00:00",
+  "updated_utc": "2026-09-10T23:11:07.015159+00:00",
   "jobs": [
+    {
+      "company": "Tesla",
+      "role": "Senior Data Engineer - Datawarehouse - Service & Tools"
+    },
+    {
+      "company": "Intel",
+      "role": "Design Verification Engineer"
+    },
+    {
+      "company": "Zoom",
+      "role": "Software Development Engineer"
+    },
     {
       "company": "Tesla",
       "role": "Data Statistician"
@@ -28,18 +40,6 @@
     {
       "company": "TikTok",
       "role": "Data Engineer Graduate"
-    },
-    {
-      "company": "Roblox",
-      "role": "Associate Product Manager - Early Career"
-    },
-    {
-      "company": "Apple",
-      "role": "Cellular Layer-1 Control Software Development Engineer - Wireless Technologies & Ecosystems"
-    },
-    {
-      "company": "Qualcomm",
-      "role": "Sensors Software Engineer \u2013 Engineer or Senior - Software Engineering"
     }
   ]
 }
