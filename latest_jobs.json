@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-10T23:11:07.015159+00:00",
+  "updated_utc": "2026-09-11T01:07:34.972595+00:00",
   "jobs": [
     {
       "company": "Tesla",
@@ -26,10 +26,6 @@
       "role": "Silicon Validation Engineer"
     },
     {
-      "company": "ServiceNow",
-      "role": "Software Engineer"
-    },
-    {
       "company": "Qualcomm",
       "role": "Physical Design Engineer - ASICS Engineering"
     },
@@ -40,6 +36,10 @@
     {
       "company": "TikTok",
       "role": "Data Engineer Graduate"
+    },
+    {
+      "company": "Roblox",
+      "role": "Associate Product Manager - Early Career"
     }
   ]
 }
