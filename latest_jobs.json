@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-09-11T06:00:10.287643+00:00",
+  "updated_utc": "2026-09-11T11:09:25.377017+00:00",
   "jobs": [
+    {
+      "company": "Zoom",
+      "role": "Software Engineer - Workforce Engagement Management"
+    },
     {
       "company": "Tesla",
       "role": "Senior Data Engineer - Datawarehouse - Service & Tools"
@@ -36,10 +40,6 @@
     {
       "company": "TikTok",
       "role": "Data Engineer Graduate"
-    },
-    {
-      "company": "Roblox",
-      "role": "Associate Product Manager - Early Career"
     }
   ]
 }
