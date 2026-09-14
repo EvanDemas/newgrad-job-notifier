@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-09-14T20:23:04.427024+00:00",
+  "updated_utc": "2026-09-14T23:17:48.070520+00:00",
   "jobs": [
+    {
+      "company": "Qualcomm",
+      "role": "Machine Learning Engineer - Machine Learning Engineering"
+    },
     {
       "company": "Robinhood",
       "role": "Associate Product Manager New Grad"
@@ -32,10 +36,6 @@
     {
       "company": "Tesla",
       "role": "Data Statistician"
-    },
-    {
-      "company": "Apple",
-      "role": "Silicon Validation Engineer"
     },
     {
       "company": "Apple",
