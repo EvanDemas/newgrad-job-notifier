@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-09-14T10:08:54.881800+00:00",
+  "updated_utc": "2026-09-14T16:22:24.612062+00:00",
   "jobs": [
+    {
+      "company": "Robinhood",
+      "role": "Associate Product Manager New Grad"
+    },
     {
       "company": "Cisco",
       "role": "ASIC Test Engineer 2"
@@ -36,10 +40,6 @@
     {
       "company": "Apple",
       "role": "Silicon Validation Engineer"
-    },
-    {
-      "company": "Qualcomm",
-      "role": "Physical Design Engineer - ASICS Engineering"
     }
   ]
 }
