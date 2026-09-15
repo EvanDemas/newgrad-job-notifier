@@ -1,6 +1,14 @@
 {
-  "updated_utc": "2026-09-14T23:17:48.070520+00:00",
+  "updated_utc": "2026-09-15T01:35:00.512675+00:00",
   "jobs": [
+    {
+      "company": "OpenAI",
+      "role": "Software Engineer - Applied Emerging Talent"
+    },
+    {
+      "company": "Apple",
+      "role": "Hardware Systems Engineer - Board Design"
+    },
     {
       "company": "Qualcomm",
       "role": "Machine Learning Engineer - Machine Learning Engineering"
@@ -32,14 +40,6 @@
     {
       "company": "Zoom",
       "role": "Software Development Engineer"
-    },
-    {
-      "company": "Tesla",
-      "role": "Data Statistician"
-    },
-    {
-      "company": "Apple",
-      "role": "Silicon Validation Engineer"
     }
   ]
 }
