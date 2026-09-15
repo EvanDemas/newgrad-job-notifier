@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-15T06:40:40.328038+00:00",
+  "updated_utc": "2026-09-15T12:10:39.349697+00:00",
   "jobs": [
     {
       "company": "OpenAI",
@@ -18,16 +18,8 @@
       "role": "Associate Product Manager New Grad"
     },
     {
-      "company": "Cisco",
-      "role": "ASIC Test Engineer 2"
-    },
-    {
       "company": "Zoom",
       "role": "Software Engineer - Workforce Engagement Management"
-    },
-    {
-      "company": "Cisco",
-      "role": "ASIC Test Engineer 2"
     },
     {
       "company": "Tesla",
@@ -40,6 +32,14 @@
     {
       "company": "Zoom",
       "role": "Software Development Engineer"
+    },
+    {
+      "company": "Tesla",
+      "role": "Data Statistician"
+    },
+    {
+      "company": "Apple",
+      "role": "Silicon Validation Engineer"
     }
   ]
 }
