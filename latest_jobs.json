@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-17T10:03:22.659949+00:00",
+  "updated_utc": "2026-09-17T14:56:11.481445+00:00",
   "jobs": [
     {
       "company": "TikTok",
@@ -34,12 +34,12 @@
       "role": "Associate Product Manager New Grad"
     },
     {
-      "company": "Zoom",
-      "role": "Software Engineer - Workforce Engagement Management"
-    },
-    {
       "company": "Tesla",
       "role": "Senior Data Engineer - Datawarehouse - Service & Tools"
+    },
+    {
+      "company": "Intel",
+      "role": "Design Verification Engineer"
     }
   ]
 }
