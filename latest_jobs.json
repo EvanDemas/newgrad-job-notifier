@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-09-17T21:55:29.618540+00:00",
+  "updated_utc": "2026-09-17T23:59:44.118503+00:00",
   "jobs": [
+    {
+      "company": "NVIDIA",
+      "role": "AI Compiler Engineer New Grad"
+    },
     {
       "company": "TikTok",
       "role": "Machine Learning Engineer Graduate - E-Commerce Content Recommendation - Generative & Large Recommendation Model"
@@ -36,10 +40,6 @@
     {
       "company": "Intel",
       "role": "Design Verification Engineer"
-    },
-    {
-      "company": "Tesla",
-      "role": "Data Statistician"
     }
   ]
 }
