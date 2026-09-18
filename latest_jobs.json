@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-09-17T23:59:44.118503+00:00",
+  "updated_utc": "2026-09-18T04:31:35.128861+00:00",
   "jobs": [
+    {
+      "company": "Stripe",
+      "role": "Software Engineer - Early Career - Immediate Start"
+    },
     {
       "company": "NVIDIA",
       "role": "AI Compiler Engineer New Grad"
@@ -36,10 +40,6 @@
     {
       "company": "Tesla",
       "role": "Senior Data Engineer - Datawarehouse - Service & Tools"
-    },
-    {
-      "company": "Intel",
-      "role": "Design Verification Engineer"
     }
   ]
 }
