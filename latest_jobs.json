@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-19T03:14:49.432342+00:00",
+  "updated_utc": "2026-09-19T08:09:31.395009+00:00",
   "jobs": [
     {
       "company": "TikTok",
@@ -12,6 +12,10 @@
     {
       "company": "Stripe",
       "role": "Software Engineer - Early Career - Immediate Start"
+    },
+    {
+      "company": "NVIDIA",
+      "role": "Research Scientist - Networking Research"
     },
     {
       "company": "NVIDIA",
@@ -36,10 +40,6 @@
     {
       "company": "Apple",
       "role": "Hardware Systems Engineer - Board Design"
-    },
-    {
-      "company": "NVIDIA",
-      "role": "Software Engineer - Coding Agent Harness Engineering"
     }
   ]
 }
