@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-20T23:50:37.967858+00:00",
+  "updated_utc": "2026-09-21T02:35:01.537111+00:00",
   "jobs": [
     {
       "company": "TikTok",
@@ -30,16 +30,16 @@
       "role": "Systems Software Engineer"
     },
     {
-      "company": "Apple",
-      "role": "Silicon Prototyping Engineer"
-    },
-    {
       "company": "Google",
       "role": "Hardware Architecture Modeling Engineer - PhD - 2027 Start"
     },
     {
       "company": "OpenAI",
       "role": "Software Engineer - Applied Emerging Talent"
+    },
+    {
+      "company": "Apple",
+      "role": "Hardware Systems Engineer - Board Design"
     }
   ]
 }
