@@ -1,6 +1,18 @@
 {
-  "updated_utc": "2026-09-21T23:12:18.194597+00:00",
+  "updated_utc": "2026-09-22T01:37:39.996116+00:00",
   "jobs": [
+    {
+      "company": "Apple",
+      "role": "Firmware Engineer - HID Bluetooth"
+    },
+    {
+      "company": "Qualcomm",
+      "role": "Backend Software Engineer - Software Engineering"
+    },
+    {
+      "company": "NVIDIA",
+      "role": "Compiler Engineer - Agentic Compilation Systems"
+    },
     {
       "company": "TikTok",
       "role": "Machine Learning Engineer Graduate - E-Commerce Recommendation Video"
@@ -18,10 +30,6 @@
       "role": "Research Scientist - Networking Research"
     },
     {
-      "company": "NVIDIA",
-      "role": "AI Compiler Engineer New Grad"
-    },
-    {
       "company": "TikTok",
       "role": "Machine Learning Engineer Graduate - E-Commerce Content Recommendation - Generative & Large Recommendation Model"
     },
@@ -32,14 +40,6 @@
     {
       "company": "Google",
       "role": "Hardware Architecture Modeling Engineer - PhD - 2027 Start"
-    },
-    {
-      "company": "OpenAI",
-      "role": "Software Engineer - Applied Emerging Talent"
-    },
-    {
-      "company": "Apple",
-      "role": "Hardware Systems Engineer - Board Design"
     }
   ]
 }
