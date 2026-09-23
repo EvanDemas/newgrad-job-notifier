@@ -1,17 +1,21 @@
 {
-  "updated_utc": "2026-09-23T01:16:54.051570+00:00",
+  "updated_utc": "2026-09-23T06:06:14.029775+00:00",
   "jobs": [
     {
       "company": "Apple",
       "role": "Firmware Engineer - HID Bluetooth"
     },
     {
-      "company": "Qualcomm",
-      "role": "Backend Software Engineer - Software Engineering"
+      "company": "Adobe",
+      "role": "Product Manager MBA Graduate"
     },
     {
-      "company": "NVIDIA",
-      "role": "Compiler Engineer - Agentic Compilation Systems"
+      "company": "Adobe",
+      "role": "AI Forward Deployed Engineer"
+    },
+    {
+      "company": "Qualcomm",
+      "role": "Backend Software Engineer - Software Engineering"
     },
     {
       "company": "TikTok",
@@ -36,10 +40,6 @@
     {
       "company": "Apple",
       "role": "Systems Software Engineer"
-    },
-    {
-      "company": "Google",
-      "role": "Hardware Architecture Modeling Engineer - PhD - 2027 Start"
     }
   ]
 }
