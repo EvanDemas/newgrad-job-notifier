@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-24T00:38:31.242992+00:00",
+  "updated_utc": "2026-09-24T05:27:18.762942+00:00",
   "jobs": [
     {
       "company": "Meta",
@@ -12,10 +12,6 @@
     {
       "company": "Adobe",
       "role": "Product Manager MBA Graduate"
-    },
-    {
-      "company": "Adobe",
-      "role": "AI Forward Deployed Engineer"
     },
     {
       "company": "Qualcomm",
@@ -40,6 +36,10 @@
     {
       "company": "Apple",
       "role": "Systems Software Engineer"
+    },
+    {
+      "company": "Google",
+      "role": "Hardware Architecture Modeling Engineer - PhD - 2027 Start"
     }
   ]
 }
