@@ -1,6 +1,14 @@
 {
-  "updated_utc": "2026-09-24T19:31:30.336424+00:00",
+  "updated_utc": "2026-09-24T22:40:25.924973+00:00",
   "jobs": [
+    {
+      "company": "Adobe",
+      "role": "Machine Learning Engineer New Grad"
+    },
+    {
+      "company": "Adobe",
+      "role": "Product Manager"
+    },
     {
       "company": "Meta",
       "role": "Rotational Product Manager"
@@ -32,14 +40,6 @@
     {
       "company": "TikTok",
       "role": "Machine Learning Engineer Graduate - E-Commerce Content Recommendation - Generative & Large Recommendation Model"
-    },
-    {
-      "company": "Apple",
-      "role": "Systems Software Engineer"
-    },
-    {
-      "company": "Google",
-      "role": "Hardware Architecture Modeling Engineer - PhD - 2027 Start"
     }
   ]
 }
