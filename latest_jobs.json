@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-09-23T22:20:43.874557+00:00",
+  "updated_utc": "2026-09-24T00:38:31.242992+00:00",
   "jobs": [
+    {
+      "company": "Meta",
+      "role": "Rotational Product Manager"
+    },
     {
       "company": "Apple",
       "role": "Firmware Engineer - HID Bluetooth"
@@ -36,10 +40,6 @@
     {
       "company": "Apple",
       "role": "Systems Software Engineer"
-    },
-    {
-      "company": "Google",
-      "role": "Hardware Architecture Modeling Engineer - PhD - 2027 Start"
     }
   ]
 }
