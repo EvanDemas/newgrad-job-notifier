@@ -1,6 +1,14 @@
 {
-  "updated_utc": "2026-09-25T00:53:06.294870+00:00",
+  "updated_utc": "2026-09-25T05:46:39.876395+00:00",
   "jobs": [
+    {
+      "company": "Apple",
+      "role": "Software Engineer - Applied AI"
+    },
+    {
+      "company": "Apple",
+      "role": "SoC Physical Design Engineer - PnR"
+    },
     {
       "company": "Block",
       "role": "Data Scientist - Payments"
@@ -32,14 +40,6 @@
     {
       "company": "Qualcomm",
       "role": "Backend Software Engineer - Software Engineering"
-    },
-    {
-      "company": "TikTok",
-      "role": "Machine Learning Engineer Graduate - E-Commerce Recommendation Video"
-    },
-    {
-      "company": "ByteDance",
-      "role": "Software Engineer - AI Compute"
     }
   ]
 }
