@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-09-24T22:40:25.924973+00:00",
+  "updated_utc": "2026-09-25T00:53:06.294870+00:00",
   "jobs": [
+    {
+      "company": "Block",
+      "role": "Data Scientist - Payments"
+    },
     {
       "company": "Adobe",
       "role": "Machine Learning Engineer New Grad"
@@ -8,6 +12,10 @@
     {
       "company": "Adobe",
       "role": "Product Manager"
+    },
+    {
+      "company": "Adobe",
+      "role": "Software Engineer New Grad"
     },
     {
       "company": "Meta",
@@ -32,14 +40,6 @@
     {
       "company": "ByteDance",
       "role": "Software Engineer - AI Compute"
-    },
-    {
-      "company": "Stripe",
-      "role": "Software Engineer - Early Career - Immediate Start"
-    },
-    {
-      "company": "TikTok",
-      "role": "Machine Learning Engineer Graduate - E-Commerce Content Recommendation - Generative & Large Recommendation Model"
     }
   ]
 }
