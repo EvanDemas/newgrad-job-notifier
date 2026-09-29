@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-09-28T23:33:38.117050+00:00",
+  "updated_utc": "2026-09-29T02:42:58.875264+00:00",
   "jobs": [
+    {
+      "company": "SpaceX",
+      "role": "Software Engineer New Grad - Software - Starfall"
+    },
     {
       "company": "Apple",
       "role": "CAD Engineer - Signoff Infrastructure"
@@ -36,10 +40,6 @@
     {
       "company": "TikTok",
       "role": "Machine Learning Engineer Graduate - E-Commerce Recommendation Video"
-    },
-    {
-      "company": "ByteDance",
-      "role": "Software Engineer - AI Compute"
     }
   ]
 }
