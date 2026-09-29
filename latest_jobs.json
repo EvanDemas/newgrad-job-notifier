@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-09-29T02:42:58.875264+00:00",
+  "updated_utc": "2026-09-29T09:06:22.275522+00:00",
   "jobs": [
+    {
+      "company": "Qualcomm",
+      "role": "Processor ASIC RTL Design Engineer - ASICS Engineering"
+    },
     {
       "company": "SpaceX",
       "role": "Software Engineer New Grad - Software - Starfall"
@@ -36,10 +40,6 @@
     {
       "company": "Qualcomm",
       "role": "Backend Software Engineer - Software Engineering"
-    },
-    {
-      "company": "TikTok",
-      "role": "Machine Learning Engineer Graduate - E-Commerce Recommendation Video"
     }
   ]
 }
