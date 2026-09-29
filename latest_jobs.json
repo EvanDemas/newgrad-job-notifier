@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-09-29T20:15:44.916595+00:00",
+  "updated_utc": "2026-09-29T23:47:13.700603+00:00",
   "jobs": [
+    {
+      "company": "Qualcomm",
+      "role": "Verification Software Engineer - Software Engineering"
+    },
     {
       "company": "Qualcomm",
       "role": "Processor ASIC RTL Design Engineer - ASICS Engineering"
@@ -10,8 +14,20 @@
       "role": "Software Engineer New Grad - Software - Starfall"
     },
     {
+      "company": "NVIDIA",
+      "role": "Applied Machine Learning Engineer - AI for VLSI Design"
+    },
+    {
+      "company": "NVIDIA",
+      "role": "Research Scientist - Fundamental Generative AI"
+    },
+    {
       "company": "Apple",
       "role": "CAD Engineer - Signoff Infrastructure"
+    },
+    {
+      "company": "Apple",
+      "role": "Software Engineer - Applied AI"
     },
     {
       "company": "Apple",
@@ -24,22 +40,6 @@
     {
       "company": "Adobe",
       "role": "Machine Learning Engineer New Grad"
-    },
-    {
-      "company": "Adobe",
-      "role": "Software Engineer New Grad"
-    },
-    {
-      "company": "Meta",
-      "role": "Rotational Product Manager"
-    },
-    {
-      "company": "Adobe",
-      "role": "Product Manager MBA Graduate"
-    },
-    {
-      "company": "Qualcomm",
-      "role": "Backend Software Engineer - Software Engineering"
     }
   ]
 }
