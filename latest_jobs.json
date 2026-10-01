@@ -1,6 +1,14 @@
 {
-  "updated_utc": "2026-10-01T00:05:43.203542+00:00",
+  "updated_utc": "2026-10-01T05:45:48.626643+00:00",
   "jobs": [
+    {
+      "company": "ByteDance",
+      "role": "Software Engineer Graduate"
+    },
+    {
+      "company": "Amazon",
+      "role": "Cloud Hardware Development Engineer 1 \u2013 Early Career"
+    },
     {
       "company": "Qualcomm",
       "role": "Verification Software Engineer - ASICS Engineering"
@@ -32,14 +40,6 @@
     {
       "company": "NVIDIA",
       "role": "Applied Machine Learning Engineer - AI for VLSI Design"
-    },
-    {
-      "company": "NVIDIA",
-      "role": "Research Scientist - Fundamental Generative AI"
-    },
-    {
-      "company": "NVIDIA",
-      "role": "Software Engineer New Grad - DGX Cloud AI Infrastructure"
     }
   ]
 }
