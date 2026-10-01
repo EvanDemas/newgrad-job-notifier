@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-01T11:51:11.785890+00:00",
+  "updated_utc": "2026-10-01T17:47:04.812986+00:00",
   "jobs": [
     {
       "company": "ByteDance",
@@ -22,10 +22,6 @@
       "role": "Member of Technical Staff"
     },
     {
-      "company": "Intel",
-      "role": "Finance Data Scientist"
-    },
-    {
       "company": "Qualcomm",
       "role": "Processor ASIC RTL Design Engineer - ASICS Engineering"
     },
@@ -40,6 +36,10 @@
     {
       "company": "NVIDIA",
       "role": "Research Scientist - Fundamental Generative AI"
+    },
+    {
+      "company": "NVIDIA",
+      "role": "Software Engineer New Grad - DGX Cloud AI Infrastructure"
     }
   ]
 }
