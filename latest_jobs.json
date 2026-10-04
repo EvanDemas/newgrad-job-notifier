@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-10-04T13:28:25.626070+00:00",
+  "updated_utc": "2026-10-04T17:48:32.782102+00:00",
   "jobs": [
+    {
+      "company": "Qualcomm",
+      "role": "SOC Design Verification Engineer - ASICS Engineering"
+    },
     {
       "company": "SpaceX",
       "role": "Product Operations Engineer - Government Applications - Special Programs"
@@ -36,10 +40,6 @@
     {
       "company": "Rivian",
       "role": "Attributes Method Engineer"
-    },
-    {
-      "company": "Lucid Computing",
-      "role": "Member of Technical Staff"
     }
   ]
 }
