@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-10-07T02:17:53.349242+00:00",
+  "updated_utc": "2026-10-07T08:53:41.949037+00:00",
   "jobs": [
+    {
+      "company": "Apple",
+      "role": "Software Engineer - Siri User Experiences"
+    },
     {
       "company": "Qualcomm",
       "role": "Video Design Engineer - Video Systems - HW Architecture"
@@ -32,10 +36,6 @@
     {
       "company": "Pinterest",
       "role": "University Grad Software Engineer"
-    },
-    {
-      "company": "Apple",
-      "role": "Signal and Power Integrity Engineer - Signal Integrity/Power Integrity"
     },
     {
       "company": "ByteDance",
