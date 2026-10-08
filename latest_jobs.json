@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-08T14:42:29.960235+00:00",
+  "updated_utc": "2026-10-08T20:12:15.856859+00:00",
   "jobs": [
     {
       "company": "Figma",
@@ -38,8 +38,8 @@
       "role": "Video Design Engineer - Video Systems - HW Architecture"
     },
     {
-      "company": "Apple",
-      "role": "CAD Engineer - Signoff Infrastructure"
+      "company": "NVIDIA",
+      "role": "High Speed Serdes Validation Engineer"
     }
   ]
 }
