@@ -1,45 +1,45 @@
 {
-  "updated_utc": "2026-10-07T21:16:27.273873+00:00",
+  "updated_utc": "2026-10-08T01:04:45.371019+00:00",
   "jobs": [
     {
-      "company": "Apple",
-      "role": "Software Engineer - Siri User Experiences"
+      "company": "Figma",
+      "role": "Associate Product Manager"
     },
     {
       "company": "Qualcomm",
-      "role": "Video Design Engineer - Video Systems - HW Architecture"
+      "role": "Next-Gen System Cache ASIC Digital Design Engineer - ASICS Engineering"
     },
     {
-      "company": "Apple",
-      "role": "CAD Engineer - Signoff Infrastructure"
-    },
-    {
-      "company": "NVIDIA",
-      "role": "High Speed Serdes Validation Engineer"
-    },
-    {
-      "company": "NVIDIA",
-      "role": "GPU PCIe and Boot Architect New Grad"
-    },
-    {
-      "company": "NVIDIA",
-      "role": "Systems Software Engineer - AI and Cloud"
+      "company": "Qualcomm",
+      "role": "Memory and Cache Controller Design Engineer - ASIC Engineering"
     },
     {
       "company": "Qualcomm",
       "role": "SOC Design Verification Engineer - ASICS Engineering"
     },
     {
+      "company": "Cisco",
+      "role": "Machine Learning Engineer"
+    },
+    {
+      "company": "Apple",
+      "role": "Screening & Integration Engineer - Watch Software - Sensing & Connectivity"
+    },
+    {
+      "company": "Apple",
+      "role": "Software Engineer - Siri User Experiences"
+    },
+    {
+      "company": "NVIDIA",
+      "role": "Research Scientist PhD New Grad - Autonomous Systems and Physical AI Research"
+    },
+    {
+      "company": "Cisco",
+      "role": "Machine Learning Engineer"
+    },
+    {
       "company": "Qualcomm",
-      "role": "Pre-Silicon Validation Engineer - ASICS Engineering"
-    },
-    {
-      "company": "Pinterest",
-      "role": "Master's University Graduate Data Scientist"
-    },
-    {
-      "company": "Pinterest",
-      "role": "University Grad Software Engineer"
+      "role": "Video Design Engineer - Video Systems - HW Architecture"
     }
   ]
 }
