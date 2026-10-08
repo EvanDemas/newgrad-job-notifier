@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-08T01:04:45.371019+00:00",
+  "updated_utc": "2026-10-08T07:18:29.925626+00:00",
   "jobs": [
     {
       "company": "Figma",
@@ -23,10 +23,6 @@
     },
     {
       "company": "Apple",
-      "role": "Screening & Integration Engineer - Watch Software - Sensing & Connectivity"
-    },
-    {
-      "company": "Apple",
       "role": "Software Engineer - Siri User Experiences"
     },
     {
@@ -40,6 +36,10 @@
     {
       "company": "Qualcomm",
       "role": "Video Design Engineer - Video Systems - HW Architecture"
+    },
+    {
+      "company": "Apple",
+      "role": "CAD Engineer - Signoff Infrastructure"
     }
   ]
 }
