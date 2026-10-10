@@ -1,6 +1,14 @@
 {
-  "updated_utc": "2026-10-09T23:11:40.900206+00:00",
+  "updated_utc": "2026-10-10T02:22:33.138319+00:00",
   "jobs": [
+    {
+      "company": "Qualcomm",
+      "role": "DFT Engineer - ASICS Engineering"
+    },
+    {
+      "company": "Apple",
+      "role": "AMS Lab Operations"
+    },
     {
       "company": "TikTok",
       "role": "Research Scientist New Grad - Conversational AI"
@@ -26,20 +34,12 @@
       "role": "Hardware Design Validation Engineer New Grad - Memory Subsystem"
     },
     {
-      "company": "Roblox",
-      "role": "Senior Machine Learning Engineer - PhD Early Career"
+      "company": "NVIDIA",
+      "role": "C++ Software Engineer New Grad - Infrastructure Tools"
     },
     {
-      "company": "TikTok",
-      "role": "Machine Learning Engineer New Grad - E-Commerce User Growth"
-    },
-    {
-      "company": "TikTok",
-      "role": "Machine Learning Engineer Graduate - E-Commerce User Growth"
-    },
-    {
-      "company": "Figma",
-      "role": "Associate Product Manager"
+      "company": "NVIDIA",
+      "role": "ASIC Clocks Verification Engineer New Grad"
     }
   ]
 }
