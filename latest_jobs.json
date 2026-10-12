@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-10-11T22:37:15.237309+00:00",
+  "updated_utc": "2026-10-12T01:47:28.632073+00:00",
   "jobs": [
+    {
+      "company": "NVIDIA",
+      "role": "Software Engineer New Grad - DL Kernel Libraries"
+    },
     {
       "company": "Qualcomm",
       "role": "DFT Engineer - ASICS Engineering"
@@ -36,10 +40,6 @@
     {
       "company": "NVIDIA",
       "role": "C++ Software Engineer New Grad - Infrastructure Tools"
-    },
-    {
-      "company": "NVIDIA",
-      "role": "ASIC Clocks Verification Engineer New Grad"
     }
   ]
 }
