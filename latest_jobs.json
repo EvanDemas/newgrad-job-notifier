@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-10-12T08:06:37.079715+00:00",
+  "updated_utc": "2026-10-12T17:51:37.956031+00:00",
   "jobs": [
+    {
+      "company": "Apple",
+      "role": "ASIC Design Engineer - Fabric/Interconnect"
+    },
     {
       "company": "NVIDIA",
       "role": "Software Engineer New Grad - DL Kernel Libraries"
@@ -36,10 +40,6 @@
     {
       "company": "NVIDIA",
       "role": "Hardware Design Validation Engineer New Grad - Memory Subsystem"
-    },
-    {
-      "company": "NVIDIA",
-      "role": "C++ Software Engineer New Grad - Infrastructure Tools"
     }
   ]
 }
