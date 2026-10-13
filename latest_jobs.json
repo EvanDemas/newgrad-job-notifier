@@ -1,6 +1,14 @@
 {
-  "updated_utc": "2026-10-13T20:21:20.078274+00:00",
+  "updated_utc": "2026-10-13T23:47:58.490250+00:00",
   "jobs": [
+    {
+      "company": "NVIDIA",
+      "role": "Formal Verification Engineer New Grad"
+    },
+    {
+      "company": "Meta",
+      "role": "ASIC Engineer New Grad - Performance Architecture and Modeling"
+    },
     {
       "company": "Apple",
       "role": "ASIC Design Engineer - Fabric/Interconnect"
@@ -32,14 +40,6 @@
     {
       "company": "Lucid Motors",
       "role": "Software Engineer - ADAS Behavior Planning and Integration"
-    },
-    {
-      "company": "Uber",
-      "role": "PhD Software Engineer 2"
-    },
-    {
-      "company": "Uber",
-      "role": "Graduate Software Engineer 2"
     }
   ]
 }
