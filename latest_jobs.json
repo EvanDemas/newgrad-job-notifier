@@ -1,9 +1,13 @@
 {
-  "updated_utc": "2026-10-12T17:51:37.956031+00:00",
+  "updated_utc": "2026-10-13T00:01:00.802324+00:00",
   "jobs": [
     {
       "company": "Apple",
       "role": "ASIC Design Engineer - Fabric/Interconnect"
+    },
+    {
+      "company": "NVIDIA",
+      "role": "Deep Learning Software Engineer New Grad - TensorRT Performance"
     },
     {
       "company": "NVIDIA",
@@ -36,10 +40,6 @@
     {
       "company": "Uber",
       "role": "Graduate Software Engineer 2"
-    },
-    {
-      "company": "NVIDIA",
-      "role": "Hardware Design Validation Engineer New Grad - Memory Subsystem"
     }
   ]
 }
