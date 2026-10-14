@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-13T23:47:58.490250+00:00",
+  "updated_utc": "2026-10-14T02:13:21.261618+00:00",
   "jobs": [
     {
       "company": "NVIDIA",
@@ -8,6 +8,26 @@
     {
       "company": "Meta",
       "role": "ASIC Engineer New Grad - Performance Architecture and Modeling"
+    },
+    {
+      "company": "NVIDIA",
+      "role": "SRAM Circuit Design Engineer New Grad"
+    },
+    {
+      "company": "NVIDIA",
+      "role": "ASIC Verification Engineer New Grad"
+    },
+    {
+      "company": "NVIDIA",
+      "role": "SoC Software Engineer New Grad"
+    },
+    {
+      "company": "NVIDIA",
+      "role": "Low Power ASIC Engineer New Grad"
+    },
+    {
+      "company": "NVIDIA",
+      "role": "SoC Software Engineer New Grad"
     },
     {
       "company": "Apple",
@@ -20,26 +40,6 @@
     {
       "company": "NVIDIA",
       "role": "Software Engineer New Grad - DL Kernel Libraries"
-    },
-    {
-      "company": "Qualcomm",
-      "role": "DFT Engineer - ASICS Engineering"
-    },
-    {
-      "company": "Apple",
-      "role": "AMS Lab Operations"
-    },
-    {
-      "company": "TikTok",
-      "role": "Research Scientist New Grad - Conversational AI"
-    },
-    {
-      "company": "TikTok",
-      "role": "Machine Learning Engineer Graduate - Conversational AI"
-    },
-    {
-      "company": "Lucid Motors",
-      "role": "Software Engineer - ADAS Behavior Planning and Integration"
     }
   ]
 }
