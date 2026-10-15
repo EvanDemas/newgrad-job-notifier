@@ -1,9 +1,21 @@
 {
-  "updated_utc": "2026-10-15T21:38:03.514836+00:00",
+  "updated_utc": "2026-10-15T23:52:20.752983+00:00",
   "jobs": [
+    {
+      "company": "Cisco",
+      "role": "Software Engineer"
+    },
+    {
+      "company": "Qualcomm",
+      "role": "ASIC Engineer - ASIC Engineering"
+    },
     {
       "company": "TikTok",
       "role": "Backend Engineer Graduate - Social Foundation"
+    },
+    {
+      "company": "Intel",
+      "role": "Microarchitecture and Design Engineer - AI SoC"
     },
     {
       "company": "TikTok",
@@ -28,18 +40,6 @@
     {
       "company": "NVIDIA",
       "role": "SRAM Circuit Design Engineer New Grad"
-    },
-    {
-      "company": "NVIDIA",
-      "role": "ASIC Verification Engineer New Grad"
-    },
-    {
-      "company": "NVIDIA",
-      "role": "SoC Software Engineer New Grad"
-    },
-    {
-      "company": "NVIDIA",
-      "role": "Low Power ASIC Engineer New Grad"
     }
   ]
 }
