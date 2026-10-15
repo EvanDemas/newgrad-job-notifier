@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-10-15T09:22:02.170564+00:00",
+  "updated_utc": "2026-10-15T14:17:51.073732+00:00",
   "jobs": [
+    {
+      "company": "TikTok",
+      "role": "Backend Engineer Graduate - Social Foundation"
+    },
     {
       "company": "TikTok",
       "role": "Software Engineer Graduate - Data Ecosystem - 2027 Start"
@@ -36,10 +40,6 @@
     {
       "company": "NVIDIA",
       "role": "Low Power ASIC Engineer New Grad"
-    },
-    {
-      "company": "NVIDIA",
-      "role": "SoC Software Engineer New Grad"
     }
   ]
 }
