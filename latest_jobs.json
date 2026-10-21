@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-10-20T23:58:17.972034+00:00",
+  "updated_utc": "2026-10-21T04:29:32.720746+00:00",
   "jobs": [
+    {
+      "company": "Amazon",
+      "role": "Software Development Engineer 1 - AI/ML Network Infrastructure"
+    },
     {
       "company": "Palantir",
       "role": "Software Engineer New Grad - Query Engines"
@@ -12,6 +16,14 @@
     {
       "company": "Intel",
       "role": "SoC Design Verification Engineer"
+    },
+    {
+      "company": "NVIDIA",
+      "role": "Software Engineer New Grad - Agent Performance Modeling"
+    },
+    {
+      "company": "NVIDIA",
+      "role": "Power Architect"
     },
     {
       "company": "Amazon",
@@ -28,18 +40,6 @@
     {
       "company": "Salesforce",
       "role": "AI Labs Rotational Fellow - Emerging Talent"
-    },
-    {
-      "company": "Intel",
-      "role": "Circuit Design Engineer"
-    },
-    {
-      "company": "Qualcomm",
-      "role": "ASIC Engineer - ASIC Engineering"
-    },
-    {
-      "company": "TikTok",
-      "role": "Backend Engineer Graduate - Social Foundation"
     }
   ]
 }
