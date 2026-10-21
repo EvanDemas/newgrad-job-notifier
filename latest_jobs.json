@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-10-21T04:29:32.720746+00:00",
+  "updated_utc": "2026-10-21T09:33:19.986331+00:00",
   "jobs": [
+    {
+      "company": "Qualcomm",
+      "role": "ASIC Engineer - ASIC Engineering"
+    },
     {
       "company": "Amazon",
       "role": "Software Development Engineer 1 - AI/ML Network Infrastructure"
@@ -32,10 +36,6 @@
     {
       "company": "NVIDIA",
       "role": "Technical Product Marketing Engineer - Robotics Simulation"
-    },
-    {
-      "company": "Salesforce",
-      "role": "AI Labs Rotational Fellow - Emerging Talent"
     },
     {
       "company": "Salesforce",
