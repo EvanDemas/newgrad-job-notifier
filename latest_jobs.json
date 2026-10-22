@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-10-22T00:42:50.780239+00:00",
+  "updated_utc": "2026-10-22T05:27:15.037017+00:00",
   "jobs": [
+    {
+      "company": "ByteDance",
+      "role": "Research Scientist"
+    },
     {
       "company": "Apple",
       "role": "SoC Physical Design Engineer - Place and Route"
@@ -36,10 +40,6 @@
     {
       "company": "Intel",
       "role": "SoC Design Verification Engineer"
-    },
-    {
-      "company": "NVIDIA",
-      "role": "Software Engineer New Grad - Agent Performance Modeling"
     }
   ]
 }
