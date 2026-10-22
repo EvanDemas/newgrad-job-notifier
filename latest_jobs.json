@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-10-22T05:27:15.037017+00:00",
+  "updated_utc": "2026-10-22T10:31:40.862270+00:00",
   "jobs": [
+    {
+      "company": "Amazon",
+      "role": "Software Development Engineer 1 - AI/ML Network Infrastructure"
+    },
     {
       "company": "ByteDance",
       "role": "Research Scientist"
@@ -36,10 +40,6 @@
     {
       "company": "SpaceX",
       "role": "Electrical Engineer New Grad - Electrical"
-    },
-    {
-      "company": "Intel",
-      "role": "SoC Design Verification Engineer"
     }
   ]
 }
