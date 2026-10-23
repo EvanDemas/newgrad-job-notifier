@@ -1,6 +1,34 @@
 {
-  "updated_utc": "2026-10-23T00:59:28.414601+00:00",
+  "updated_utc": "2026-10-23T05:56:51.375995+00:00",
   "jobs": [
+    {
+      "company": "Amazon",
+      "role": "Software Development Engineer 1 Early Career - Annapurna Labs"
+    },
+    {
+      "company": "Amazon",
+      "role": "Software Development Engineer - Prime Video Personalization & Discovery"
+    },
+    {
+      "company": "Amazon",
+      "role": "ASIC Formal Verification Engineer 1"
+    },
+    {
+      "company": "Amazon",
+      "role": "Software Development Engineer - Embedded Systems"
+    },
+    {
+      "company": "Amazon",
+      "role": "ASIC Engineer Early Career"
+    },
+    {
+      "company": "Amazon",
+      "role": "Cloud Hardware Development Engineer \u2013 Early Career"
+    },
+    {
+      "company": "Amazon",
+      "role": "ASIC Engineer - Project Leo"
+    },
     {
       "company": "Palantir",
       "role": "Forward Deployed Software Engineer New Grad"
@@ -12,34 +40,6 @@
     {
       "company": "Amazon",
       "role": "Software Development Engineer 1 - AI/ML Network Infrastructure"
-    },
-    {
-      "company": "ByteDance",
-      "role": "Research Scientist"
-    },
-    {
-      "company": "Intel",
-      "role": "SoC Design Verification Engineer"
-    },
-    {
-      "company": "Intel",
-      "role": "SoC Debug Engineer"
-    },
-    {
-      "company": "Apple",
-      "role": "SoC Physical Design Engineer - Place and Route"
-    },
-    {
-      "company": "Apple",
-      "role": "Software Engineer - SoC Level Validation Engineer"
-    },
-    {
-      "company": "Qualcomm",
-      "role": "IPS Hardware Support Engineer - Support Engineering"
-    },
-    {
-      "company": "ByteDance",
-      "role": "Research Scientist"
     }
   ]
 }
