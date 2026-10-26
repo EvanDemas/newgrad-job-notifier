@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-10-26T05:01:58.596237+00:00",
+  "updated_utc": "2026-10-26T10:59:41.658113+00:00",
   "jobs": [
+    {
+      "company": "TikTok",
+      "role": "Product Manager New Grad - Platform Trust and Ecosystem"
+    },
     {
       "company": "Oracle",
       "role": "Electrical Engineer 1"
@@ -36,10 +40,6 @@
     {
       "company": "Amazon",
       "role": "Cloud Hardware Development Engineer \u2013 Early Career"
-    },
-    {
-      "company": "Amazon",
-      "role": "ASIC Engineer - Project Leo"
     }
   ]
 }
