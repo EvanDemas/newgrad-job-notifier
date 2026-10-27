@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-10-27T05:50:29.575224+00:00",
+  "updated_utc": "2026-10-27T11:19:37.854228+00:00",
   "jobs": [
+    {
+      "company": "Microsoft",
+      "role": "Software Engineer"
+    },
     {
       "company": "Oracle",
       "role": "Electrical Engineer 1"
@@ -36,10 +40,6 @@
     {
       "company": "Amazon",
       "role": "ASIC Formal Verification Engineer 1"
-    },
-    {
-      "company": "Amazon",
-      "role": "Software Development Engineer - Embedded Systems"
     }
   ]
 }
