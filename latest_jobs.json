@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-10-28T12:59:56.999187+00:00",
+  "updated_utc": "2026-10-28T18:47:13.429954+00:00",
   "jobs": [
+    {
+      "company": "Cisco",
+      "role": "Data Science Analyst 1 - United States GSC/SCT ETR"
+    },
     {
       "company": "Databricks",
       "role": "Software Engineer New Grad"
@@ -36,10 +40,6 @@
     {
       "company": "Oracle",
       "role": "Electrical Engineer 1"
-    },
-    {
-      "company": "Tesla",
-      "role": "Data Collection Coordinator - Optimus"
     }
   ]
 }
