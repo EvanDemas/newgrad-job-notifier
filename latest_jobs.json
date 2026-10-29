@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-10-29T08:29:01.399558+00:00",
+  "updated_utc": "2026-10-29T15:29:41.017619+00:00",
   "jobs": [
+    {
+      "company": "Cisco",
+      "role": "Data Science Analyst 1"
+    },
     {
       "company": "Apple",
       "role": "Physical Design Methodology CAD Engineer"
@@ -36,10 +40,6 @@
     {
       "company": "Tesla",
       "role": "Engineering Technician Trainee"
-    },
-    {
-      "company": "Apple",
-      "role": "SoC Physical Design Engineer - Place and Route"
     }
   ]
 }
