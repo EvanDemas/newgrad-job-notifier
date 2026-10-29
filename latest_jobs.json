@@ -1,6 +1,18 @@
 {
-  "updated_utc": "2026-10-28T22:54:15.456243+00:00",
+  "updated_utc": "2026-10-29T02:09:10.643335+00:00",
   "jobs": [
+    {
+      "company": "Apple",
+      "role": "Physical Design Methodology CAD Engineer"
+    },
+    {
+      "company": "Apple",
+      "role": "Custom CAD Engineer"
+    },
+    {
+      "company": "AMD",
+      "role": "Distributed Systems Software Engineer - Collectives"
+    },
     {
       "company": "Cisco",
       "role": "Data Science Analyst 1 - United States GSC/SCT ETR"
@@ -28,18 +40,6 @@
     {
       "company": "Apple",
       "role": "SoC Physical Design Engineer - Place and Route"
-    },
-    {
-      "company": "Microsoft",
-      "role": "Software Engineer"
-    },
-    {
-      "company": "NVIDIA",
-      "role": "Deep Learning Performance Architect New Grad"
-    },
-    {
-      "company": "NVIDIA",
-      "role": "Formal Verification Engineer New Grad"
     }
   ]
 }
