@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-31T07:33:33.639440+00:00",
+  "updated_utc": "2026-10-31T13:50:54.431496+00:00",
   "jobs": [
     {
       "company": "Tesla",
@@ -30,16 +30,16 @@
       "role": "Firmware Engineer"
     },
     {
-      "company": "Cisco",
-      "role": "Data Science Analyst 1"
-    },
-    {
       "company": "Apple",
       "role": "Physical Design Methodology CAD Engineer"
     },
     {
       "company": "Apple",
       "role": "Custom CAD Engineer"
+    },
+    {
+      "company": "AMD",
+      "role": "Distributed Systems Software Engineer - Collectives"
     }
   ]
 }
