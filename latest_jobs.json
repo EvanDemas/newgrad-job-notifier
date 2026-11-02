@@ -1,6 +1,14 @@
 {
-  "updated_utc": "2026-11-02T01:42:55.320551+00:00",
+  "updated_utc": "2026-11-02T08:23:01.764662+00:00",
   "jobs": [
+    {
+      "company": "Qualcomm",
+      "role": "Associate Calibration Engineer - Calibration Engineering"
+    },
+    {
+      "company": "Google",
+      "role": "Software Engineer 2 \u2013 Early Career"
+    },
     {
       "company": "Tesla",
       "role": "Camera Technician"
@@ -32,14 +40,6 @@
     {
       "company": "Apple",
       "role": "Physical Design Methodology CAD Engineer"
-    },
-    {
-      "company": "Apple",
-      "role": "Custom CAD Engineer"
-    },
-    {
-      "company": "AMD",
-      "role": "Distributed Systems Software Engineer - Collectives"
     }
   ]
 }
