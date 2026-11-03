@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-11-03T01:18:04.408630+00:00",
+  "updated_utc": "2026-11-03T08:00:15.147657+00:00",
   "jobs": [
+    {
+      "company": "Apple",
+      "role": "Silicon Photonics Process Integration Engineer"
+    },
     {
       "company": "Apple",
       "role": "Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems"
@@ -36,10 +40,6 @@
     {
       "company": "Amazon",
       "role": "Software Development Engineer - Database"
-    },
-    {
-      "company": "Roblox",
-      "role": "Senior Software Engineer \u2013 Data Acquisition PhD Early Career"
     }
   ]
 }
