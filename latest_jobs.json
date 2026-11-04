@@ -1,9 +1,29 @@
 {
-  "updated_utc": "2026-11-03T21:46:59.578827+00:00",
+  "updated_utc": "2026-11-04T01:43:37.993039+00:00",
   "jobs": [
+    {
+      "company": "ByteDance",
+      "role": "Video/Image AI/ML Software Engineer Graduate - Video and Edge - Multimedia Lab"
+    },
+    {
+      "company": "Amazon",
+      "role": "Software Development Engineer \u2013 Early Career - Embedded Systems"
+    },
+    {
+      "company": "LinkedIn",
+      "role": "Data Scientist"
+    },
+    {
+      "company": "ServiceNow",
+      "role": "Software Engineer - Agent Eval Platform"
+    },
     {
       "company": "Apple",
       "role": "Silicon Photonics Process Integration Engineer"
+    },
+    {
+      "company": "NVIDIA",
+      "role": "GPU System and Scheduling Architect"
     },
     {
       "company": "Apple",
@@ -20,26 +40,6 @@
     {
       "company": "Google",
       "role": "Software Engineer 2 \u2013 Early Career"
-    },
-    {
-      "company": "Tesla",
-      "role": "Camera Technician"
-    },
-    {
-      "company": "NVIDIA",
-      "role": "Research Scientist New Grad - ML Systems"
-    },
-    {
-      "company": "NVIDIA",
-      "role": "Research Scientist New Grad - AI for Graphics and Gaming"
-    },
-    {
-      "company": "TikTok",
-      "role": "Product Solutions and Operations New Grad - Global Monetization Product and Technology"
-    },
-    {
-      "company": "Amazon",
-      "role": "Software Development Engineer - Database"
     }
   ]
 }
