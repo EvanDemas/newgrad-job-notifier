@@ -1,6 +1,14 @@
 {
-  "updated_utc": "2026-11-05T02:15:14.822191+00:00",
+  "updated_utc": "2026-11-05T09:39:00.924913+00:00",
   "jobs": [
+    {
+      "company": "Amazon",
+      "role": "Software Developer Engineer 1 - Security Platform"
+    },
+    {
+      "company": "Cisco",
+      "role": "Software Engineer Full Stack / Backend 1"
+    },
     {
       "company": "ByteDance",
       "role": "Video/Image AI/ML Software Engineer Graduate - Video and Edge - Multimedia Lab"
@@ -32,14 +40,6 @@
     {
       "company": "Apple",
       "role": "Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems"
-    },
-    {
-      "company": "Apple",
-      "role": "Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems"
-    },
-    {
-      "company": "Qualcomm",
-      "role": "Associate Calibration Engineer - Calibration Engineering"
     }
   ]
 }
