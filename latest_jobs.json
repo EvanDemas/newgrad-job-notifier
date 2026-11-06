@@ -1,6 +1,14 @@
 {
-  "updated_utc": "2026-11-06T03:09:54.707409+00:00",
+  "updated_utc": "2026-11-06T10:54:20.655377+00:00",
   "jobs": [
+    {
+      "company": "TikTok",
+      "role": "Research Engineer - Agentic Video Editing"
+    },
+    {
+      "company": "Amazon",
+      "role": "Software Development Engineer - SoC Hardware Abstraction Layer"
+    },
     {
       "company": "Amazon",
       "role": "ASIC Formal Verification Engineer 1"
@@ -32,14 +40,6 @@
     {
       "company": "ServiceNow",
       "role": "Software Engineer - Agent Eval Platform"
-    },
-    {
-      "company": "Apple",
-      "role": "Silicon Photonics Process Integration Engineer"
-    },
-    {
-      "company": "NVIDIA",
-      "role": "GPU System and Scheduling Architect"
     }
   ]
 }
