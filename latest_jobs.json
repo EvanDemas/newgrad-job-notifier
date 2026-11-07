@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-11-06T22:26:46.742548+00:00",
+  "updated_utc": "2026-11-07T02:17:32.758557+00:00",
   "jobs": [
+    {
+      "company": "AMD",
+      "role": "Senior Software Engineer"
+    },
     {
       "company": "TikTok",
       "role": "Research Engineer - Agentic Video Editing"
@@ -36,10 +40,6 @@
     {
       "company": "LinkedIn",
       "role": "Data Scientist"
-    },
-    {
-      "company": "ServiceNow",
-      "role": "Software Engineer - Agent Eval Platform"
     }
   ]
 }
