@@ -1,9 +1,17 @@
 {
-  "updated_utc": "2026-11-10T04:46:09.632485+00:00",
+  "updated_utc": "2026-11-10T13:03:28.707140+00:00",
   "jobs": [
     {
       "company": "Adobe",
       "role": "Data Science Engineer New Grad"
+    },
+    {
+      "company": "Intel",
+      "role": "SoC Design Verification Engineer"
+    },
+    {
+      "company": "Intel",
+      "role": "SoC Logic Design Engineer"
     },
     {
       "company": "AMD",
@@ -32,14 +40,6 @@
     {
       "company": "Cisco",
       "role": "Software Engineer Full Stack / Backend 1"
-    },
-    {
-      "company": "ByteDance",
-      "role": "Video/Image AI/ML Software Engineer Graduate - Video and Edge - Multimedia Lab"
-    },
-    {
-      "company": "Amazon",
-      "role": "Software Development Engineer \u2013 Early Career - Embedded Systems"
     }
   ]
 }
