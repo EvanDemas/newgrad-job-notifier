@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-11-09T23:28:11.565850+00:00",
+  "updated_utc": "2026-11-10T04:46:09.632485+00:00",
   "jobs": [
+    {
+      "company": "Adobe",
+      "role": "Data Science Engineer New Grad"
+    },
     {
       "company": "AMD",
       "role": "Senior Software Engineer"
@@ -36,10 +40,6 @@
     {
       "company": "Amazon",
       "role": "Software Development Engineer \u2013 Early Career - Embedded Systems"
-    },
-    {
-      "company": "LinkedIn",
-      "role": "Data Scientist"
     }
   ]
 }
