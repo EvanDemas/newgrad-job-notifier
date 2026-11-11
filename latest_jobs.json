@@ -1,9 +1,17 @@
 {
-  "updated_utc": "2026-11-11T15:27:03.289485+00:00",
+  "updated_utc": "2026-11-11T22:11:57.604595+00:00",
   "jobs": [
     {
       "company": "Apple",
       "role": "Darwin Runtime Engineer - Core OS"
+    },
+    {
+      "company": "Salesforce",
+      "role": "Software Engineering AMTS New Grad"
+    },
+    {
+      "company": "Salesforce",
+      "role": "Software Engineer New Grad"
     },
     {
       "company": "Salesforce",
@@ -32,14 +40,6 @@
     {
       "company": "Amazon",
       "role": "ASIC Formal Verification Engineer 1"
-    },
-    {
-      "company": "Amazon",
-      "role": "Software Developer Engineer 1 - Security Platform"
-    },
-    {
-      "company": "Intel",
-      "role": "Memory Design Engineer"
     }
   ]
 }
