@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-11-12T23:54:19.329696+00:00",
+  "updated_utc": "2026-11-13T05:25:39.421097+00:00",
   "jobs": [
+    {
+      "company": "Microsoft",
+      "role": "Electrical Engineer - Schie"
+    },
     {
       "company": "Apple",
       "role": "Software Engineer - Ad Platforms"
@@ -32,10 +36,6 @@
     {
       "company": "Intel",
       "role": "Design Verification Engineer"
-    },
-    {
-      "company": "Salesforce",
-      "role": "AI Labs Rotational Fellow"
     },
     {
       "company": "Salesforce",
