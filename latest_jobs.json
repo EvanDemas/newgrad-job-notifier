@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-11-17T19:31:40.951840+00:00",
+  "updated_utc": "2026-11-18T01:50:47.248604+00:00",
   "jobs": [
+    {
+      "company": "Qualcomm",
+      "role": "Machine Learning Compiler Engineer - Machine Learning Engineering"
+    },
     {
       "company": "Roblox",
       "role": "Data Scientist \u2013 PhD Early Career - Safety"
@@ -36,10 +40,6 @@
     {
       "company": "Adobe",
       "role": "Data Scientist New Grad"
-    },
-    {
-      "company": "Intel",
-      "role": "Design Verification Engineer"
     }
   ]
 }
