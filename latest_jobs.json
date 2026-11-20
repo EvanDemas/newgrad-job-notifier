@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-11-19T23:38:14.519522+00:00",
+  "updated_utc": "2026-11-20T04:18:19.577139+00:00",
   "jobs": [
+    {
+      "company": "Qualcomm",
+      "role": "Noc Interconnect Design Engineer and Architect - Application-Specific Integrated Circuit Systems Engineering"
+    },
     {
       "company": "Qualcomm",
       "role": "Embedded Audio Software Engineer - Software Engineering"
@@ -36,10 +40,6 @@
     {
       "company": "Salesforce",
       "role": "Software Engineer New Grad"
-    },
-    {
-      "company": "Adobe",
-      "role": "Data Scientist New Grad"
     }
   ]
 }
