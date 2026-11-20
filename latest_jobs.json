@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-11-20T04:18:19.577139+00:00",
+  "updated_utc": "2026-11-20T13:15:12.442278+00:00",
   "jobs": [
+    {
+      "company": "Apple",
+      "role": "AR/VR Software Engineer - Spatial System UI - Vision Products Software"
+    },
     {
       "company": "Qualcomm",
       "role": "Noc Interconnect Design Engineer and Architect - Application-Specific Integrated Circuit Systems Engineering"
@@ -36,10 +40,6 @@
     {
       "company": "Salesforce",
       "role": "Software Engineering AMTS New Grad"
-    },
-    {
-      "company": "Salesforce",
-      "role": "Software Engineer New Grad"
     }
   ]
 }
