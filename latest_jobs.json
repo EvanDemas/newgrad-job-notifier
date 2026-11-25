@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-11-25T04:06:03.563829+00:00",
+  "updated_utc": "2026-11-25T14:14:12.700848+00:00",
   "jobs": [
+    {
+      "company": "TikTok",
+      "role": "Backend Software Engineer - Data Lifecycle Management"
+    },
     {
       "company": "Meta",
       "role": "ASIC Engineer - Performance Architecture and Modeling"
@@ -36,10 +40,6 @@
     {
       "company": "Roblox",
       "role": "Data Scientist \u2013 PhD Early Career - Safety"
-    },
-    {
-      "company": "SpaceX",
-      "role": "Aerospace Software Engineer New Grad - Aerospace Software"
     }
   ]
 }
