@@ -1,6 +1,10 @@
 {
-  "updated_utc": "2026-11-25T23:09:29.722311+00:00",
+  "updated_utc": "2026-11-26T05:05:15.347102+00:00",
   "jobs": [
+    {
+      "company": "Qualcomm",
+      "role": "Microprocessor Silicon Validation and Optimization Engineer - ASICS Engineering"
+    },
     {
       "company": "TikTok",
       "role": "Backend Software Engineer - Data Lifecycle Management"
@@ -12,6 +16,10 @@
     {
       "company": "SpaceX",
       "role": "New Graduate Engineer - Electrical"
+    },
+    {
+      "company": "Tesla",
+      "role": "Data Collection Operator - Optimus"
     },
     {
       "company": "Apple",
@@ -32,14 +40,6 @@
     {
       "company": "Qualcomm",
       "role": "Machine Learning Compiler Engineer - Machine Learning Engineering"
-    },
-    {
-      "company": "Roblox",
-      "role": "Data Scientist \u2013 PhD Early Career - Safety"
-    },
-    {
-      "company": "SpaceX",
-      "role": "Aerospace Software Engineer New Grad - Aerospace Software"
     }
   ]
 }
